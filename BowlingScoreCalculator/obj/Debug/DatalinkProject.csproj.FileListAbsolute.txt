@@ -1,0 +1,6 @@
+C:\Users\Steven\Desktop\ForDatalink\BowlingProject\DatalinkProject\bin\Debug\DatalinkProject.exe.config
+C:\Users\Steven\Desktop\ForDatalink\BowlingProject\DatalinkProject\bin\Debug\DatalinkProject.exe
+C:\Users\Steven\Desktop\ForDatalink\BowlingProject\DatalinkProject\bin\Debug\DatalinkProject.pdb
+C:\Users\Steven\Desktop\ForDatalink\BowlingProject\DatalinkProject\obj\Debug\DatalinkProject.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\ForDatalink\BowlingProject\DatalinkProject\obj\Debug\DatalinkProject.exe
+C:\Users\Steven\Desktop\ForDatalink\BowlingProject\DatalinkProject\obj\Debug\DatalinkProject.pdb
